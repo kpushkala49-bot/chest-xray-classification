@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.csv
+*.dcm
+*.zip
+*.7z
+*.7z.*
+preprocessed_xray/
+stage_2_train_images/
